@@ -1,0 +1,14 @@
+['customdrug'] = {
+    label = 'Custom Drug',
+    item = 'customdrug',
+    duration = 900000,
+    effects = {
+        health = 30,
+        stamina = 40,
+        custom_effect = true,
+    },
+    animation = 'mp_player_intcelebration_tojon',
+    animDict = 'mp_player_intcelebration_tojon',
+    removeItem = true,
+    description = 'Custom drug for specific use'
+}
